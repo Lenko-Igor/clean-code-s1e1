@@ -122,7 +122,7 @@ li > label {
   width: 226px;
 }
 li > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 li > .delete:hover {
   color: #cf2323;
@@ -149,7 +149,7 @@ ul li input[type="text"] {
 
 ul .edit-mode input[type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 ul .edit-mode label {
