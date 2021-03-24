@@ -17,7 +17,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   
   .details { 
     text-align: center;
@@ -144,14 +144,14 @@ li > .delete:hover {
 
 /* Edit Task */
 ul li input[type="text"] {
-  display:none;
+  display: none;
 }
 
 ul .edit-mode input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 ul .edit-mode label {
-  display:none;
+  display: none;
 }
